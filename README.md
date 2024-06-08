@@ -10,7 +10,7 @@
 
 
 ## Setup
-CUDA 11.8
+CUDA 11.8 \ 
 Installing the GitHub Repository
 ```bash
 git clone https://github.com/ugiugi0823/Null-SDXL.git
