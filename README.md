@@ -1,7 +1,11 @@
 # [SDXL] Null-text inversion + Editing with Prompt-to-Prompt
 
+<a href="https://colab.research.google.com/drive/1OQin2J0HZPdhWiGeW_DKS4cE77otrxZz?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg"
+      alt="Open in Colab"
+  />
+</a>
 
-![Open In Colab](https://colab.research.google.com/drive/1OQin2J0HZPdhWiGeW_DKS4cE77otrxZz?usp=sharing)
 
 
 
@@ -24,3 +28,8 @@ bash conda activate dune
 
 
 ## Now try running null-sdxl.ipynb  !
+
+
+
+# Null-Text Inversion Colab Notebook
+
